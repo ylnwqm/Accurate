@@ -1,0 +1,19 @@
+{
+    "name": "ylnwqm\/accurate",
+    "description": "Accurate calculation",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ylnwqm",
+            "email": "ylnwqm@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ylnwqm\\Accurate\\": "src"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
